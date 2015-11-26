@@ -1,0 +1,17 @@
+.sort-icon {
+    font-size: 9px;
+    margin-left: 5px;
+}
+
+th {
+    cursor:pointer;
+}
+
+.table td {
+    word-wrap:break-word;
+}
+
+.alert {
+    margin-bottom: 0px;
+    text-align: center;
+}
